@@ -1,0 +1,21 @@
+body {
+  background: #000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #fff;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  height: auto;
+}
